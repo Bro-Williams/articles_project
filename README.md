@@ -1,3 +1,3 @@
-### Link to the project -  articles7.pythonanywhere.com 
+Link to the project -  http://articles7.pythonanywhere.com/ 
 
 
